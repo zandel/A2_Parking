@@ -25,10 +25,7 @@
 
 <table style="width:48%; text-align=right">
   
-  request.setAttribute( "registration", regNumber );		    		    
-		     request.setAttribute( "newBalance", newBalance);
-		     request.setAttribute( "oldBalance", newBalance);
-		     request.setAttribute( "topUpAmount", topupAmount );		
+  
   
   <tr>
     <td>Registration:</td>
